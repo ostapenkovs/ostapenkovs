@@ -3,3 +3,7 @@ I am a junior at UC Santa Barbara studying Statistics and Data Science. I am int
 
 What I do:
 ![Pic 1](https://github.com/ostapenkovs/ostapenkovs/blob/main/1.png?raw=true)
+
+![Pic 2](https://github.com/ostapenkovs/ostapenkovs/blob/main/2.png?raw=true)
+
+![Pic 3](https://github.com/ostapenkovs/ostapenkovs/blob/main/3.png?raw=true)
